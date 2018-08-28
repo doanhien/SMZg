@@ -1,2 +1,2 @@
 # SMZg
-code for analysis SM Zg analysis
+code for SM Zg analysis
